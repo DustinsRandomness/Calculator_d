@@ -1,3 +1,12 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1701102803
+::res://::1701103226
 icon.svg::CompressedTexture2D::870085184270266919::1701102798::1701102806::1::::<><>::
+::res://assets/::1701103226
+::res://assets/assets/::1701103226
+Addition_btn.png::CompressedTexture2D::2875353892971690507::1701103226::1701103226::1::::<><>::
+Delete_btn.png::CompressedTexture2D::9159021931158347919::1701103226::1701103226::1::::<><>::
+Division_btn.png::CompressedTexture2D::4444651791314032070::1701103226::1701103226::1::::<><>::
+Equal_btn.png::CompressedTexture2D::7785449007079259106::1701103226::1701103226::1::::<><>::
+Multiplication_btn.png::CompressedTexture2D::8523168371633377865::1701103226::1701103226::1::::<><>::
+Negate_btn.png::CompressedTexture2D::7982214938894742889::1701103226::1701103226::1::::<><>::
+Subtraction_btn.png::CompressedTexture2D::8066342192055616261::1701103226::1701103226::1::::<><>::
