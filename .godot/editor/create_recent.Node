@@ -1,12 +1,9 @@
-Timer
-Container
 TextureRect
-AudioStreamPlayer2D
 Button
-Label
-ColorRect
 HBoxContainer
 GridContainer
 VBoxContainer
+Label
 MarginContainer
+ColorRect
 Panel
